@@ -4,4 +4,4 @@ All rights reserved to AIV company.
 
 # Controls
 WASD &nbsp;&nbsp;Move player<br/>
-Space &nbsp;Shoot
+Space &nbsp;&nbsp;&nbsp;Shoot
